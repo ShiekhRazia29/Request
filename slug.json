@@ -1,0 +1,12 @@
+{
+    "id": "2401",
+    "parent_exercise_id": "2396",
+    "name": "Loop questions",
+    "slug": "interviewQuestions__Python/Part3",
+    "sequence_num": 2002,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"1. Difference between while and for loop.\\n\\n\\n 2. What is the use of for in loop?\\n\\n\\n 3. Where to use  while true and why?\\n\\n\\n 4. What are iterators? \"}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Python/Part3.md"
+}

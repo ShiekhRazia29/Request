@@ -1,0 +1,12 @@
+{
+    "id": "3458",
+    "parent_exercise_id": "3438",
+    "name": " Question 5",
+    "slug": "functions__DebugCode/question5",
+    "sequence_num": 1505,
+    "review_type": "manual",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"\\n\\n## Question 5\\n\\n Neeche diye huye codes mai kuch bugs hai. Ab aapko error find kar ke unhe solve karne hai.(number of bugs) \"},{\"type\":\"python\",\"value\":{\"code\":\"def distance(kms):\\n        if kms < 20:\\n            print(\\\"close\\\")\\n        elif kms < 50:\\n            print(median)\\n        else:\\n            Print(far)\\n    distance(20,30)\",\"testCases\":[]}}]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/DebugCode/question5.md"
+}

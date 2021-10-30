@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "id": "3471",
+            "parent_exercise_id": null,
+            "name": "f and j",
+            "slug": "home-row-tg__keys_f_j",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_f_j.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3470",
+            "parent_exercise_id": null,
+            "name": "space, f and j",
+            "slug": "home-row-tg__keys_space_bar_with_f_j",
+            "sequence_num": 100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_space_bar_with_f_j.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3469",
+            "parent_exercise_id": null,
+            "name": "d and k",
+            "slug": "home-row-tg__keys_d_k",
+            "sequence_num": 200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_d_k.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3472",
+            "parent_exercise_id": null,
+            "name": "f, j, d and k",
+            "slug": "home-row-tg__keys_f_j_d_k",
+            "sequence_num": 300,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_f_j_d_k.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3474",
+            "parent_exercise_id": null,
+            "name": "s and l",
+            "slug": "home-row-tg__keys_s_l",
+            "sequence_num": 400,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_s_l.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3473",
+            "parent_exercise_id": null,
+            "name": "g and h",
+            "slug": "home-row-tg__keys_g_h",
+            "sequence_num": 500,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_g_h.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3475",
+            "parent_exercise_id": null,
+            "name": "s, l, g and h",
+            "slug": "home-row-tg__keys_s_l_g_h",
+            "sequence_num": 600,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_s_l_g_h.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3476",
+            "parent_exercise_id": null,
+            "name": "a and ;",
+            "slug": "home-row-tg__keys_a_;",
+            "sequence_num": 700,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_a_;.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3477",
+            "parent_exercise_id": null,
+            "name": "s, l and a",
+            "slug": "home-row-tg__keys_s_l_a_;",
+            "sequence_num": 800,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_s_l_a_;.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3480",
+            "parent_exercise_id": null,
+            "name": "a, s, d, f",
+            "slug": "home-row-tg__keys_a_s_d_f",
+            "sequence_num": 900,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_a_s_d_f.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3478",
+            "parent_exercise_id": null,
+            "name": "j, k, l, ;",
+            "slug": "home-row-tg__keys_j_k_l_;",
+            "sequence_num": 1000,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_j_k_l_;.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3479",
+            "parent_exercise_id": null,
+            "name": "a, s, g, j",
+            "slug": "home-row-tg__keys_a_s_g_j",
+            "sequence_num": 1100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_a_s_g_j.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3481",
+            "parent_exercise_id": null,
+            "name": "a, s, k, l",
+            "slug": "home-row-tg__keys_a_s_k_l",
+            "sequence_num": 1200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_a_s_k_l.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3482",
+            "parent_exercise_id": null,
+            "name": "d, f, h, ;",
+            "slug": "home-row-tg__keys_d_f_h_;",
+            "sequence_num": 1300,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_d_f_h_;.md",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}
